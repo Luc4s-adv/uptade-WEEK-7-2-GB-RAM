@@ -82,6 +82,7 @@
 	<SubTexture name="TANK TALK 1 P10077" x="3548" y="1725" width="392" height="570" frameX="-2" frameY="-6" frameWidth="397" frameHeight="576"/>
 	<SubTexture name="TANK TALK 1 P10078" x="3548" y="1725" width="392" height="570" frameX="-2" frameY="-6" frameWidth="397" frameHeight="576"/>
 	<SubTexture name="TANK TALK 1 P10079" x="3548" y="1725" width="392" height="570" frameX="-2" frameY="-6" frameWidth="397" frameHeight="576"/>
+	
 	<SubTexture name="TANK TALK 1 P20000" x="2" y="2299" width="392" height="570" frameX="-40" frameY="-15" frameWidth="556" frameHeight="586"/>
 	<SubTexture name="TANK TALK 1 P20001" x="396" y="2299" width="392" height="570" frameX="-40" frameY="-15" frameWidth="556" frameHeight="586"/>
 	<SubTexture name="TANK TALK 1 P20002" x="396" y="2299" width="392" height="570" frameX="-40" frameY="-15" frameWidth="556" frameHeight="586"/>
@@ -134,99 +135,6 @@
 	<SubTexture name="TANK TALK 1 P20049" x="2487" y="3443" width="495" height="560" frameX="-46" frameY="-25" frameWidth="556" frameHeight="586"/>
 	<SubTexture name="TANK TALK 1 P20050" x="2984" y="3443" width="491" height="560" frameX="-48" frameY="-25" frameWidth="556" frameHeight="586"/>
 	<SubTexture name="TANK TALK 1 P20051" x="3477" y="3443" width="491" height="565" frameX="-48" frameY="-20" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20052" x="2" y="4015" width="544" height="586" frameX="0" frameY="0" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20053" x="548" y="4015" width="544" height="586" frameX="0" frameY="0" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20054" x="1094" y="4015" width="530" height="578" frameX="-11" frameY="-7" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20055" x="1626" y="4015" width="530" height="578" frameX="-11" frameY="-7" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20056" x="2158" y="4015" width="527" height="578" frameX="-14" frameY="-7" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20057" x="2687" y="4015" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20058" x="2687" y="4015" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20059" x="3216" y="4015" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20060" x="3216" y="4015" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20061" x="2687" y="4015" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20062" x="2687" y="4015" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20063" x="2" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20064" x="2" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20065" x="531" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20066" x="531" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20067" x="1060" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20068" x="1060" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20069" x="1589" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20070" x="1589" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20071" x="2" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20072" x="2118" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20073" x="2118" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20074" x="2647" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20075" x="2647" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20076" x="2647" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20077" x="3216" y="4015" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20078" x="3216" y="4015" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20079" x="3176" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20080" x="3176" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20081" x="3176" y="4603" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20082" x="2" y="5182" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20083" x="2" y="5182" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20084" x="531" y="5182" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20085" x="531" y="5182" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20086" x="1060" y="5182" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20087" x="1060" y="5182" width="527" height="577" frameX="-14" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20088" x="1589" y="5182" width="526" height="577" frameX="-15" frameY="-8" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20089" x="2117" y="5182" width="526" height="571" frameX="-15" frameY="-14" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20090" x="2117" y="5182" width="526" height="571" frameX="-15" frameY="-14" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20091" x="2645" y="5182" width="527" height="571" frameX="-14" frameY="-14" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20092" x="3174" y="5182" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20093" x="3174" y="5182" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20094" x="3174" y="5182" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20095" x="2" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20096" x="2" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20097" x="531" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20098" x="531" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20099" x="531" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20100" x="1060" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20101" x="1060" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20102" x="1060" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20103" x="1060" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20104" x="1060" y="5761" width="527" height="573" frameX="-14" frameY="-12" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20105" x="1589" y="5761" width="527" height="571" frameX="-14" frameY="-14" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20106" x="1589" y="5761" width="527" height="571" frameX="-14" frameY="-14" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20107" x="2118" y="5761" width="463" height="569" frameX="-50" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20108" x="2118" y="5761" width="463" height="569" frameX="-50" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20109" x="2583" y="5761" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20110" x="2583" y="5761" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20111" x="3065" y="5761" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20112" x="3547" y="5761" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20113" x="3547" y="5761" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20114" x="2" y="6336" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20115" x="2" y="6336" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20116" x="484" y="6336" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20117" x="484" y="6336" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20118" x="966" y="6336" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20119" x="966" y="6336" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20120" x="1448" y="6336" width="480" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20121" x="1930" y="6336" width="503" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20122" x="2435" y="6336" width="503" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20123" x="2940" y="6336" width="516" height="572" frameX="-40" frameY="-13" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20124" x="3458" y="6336" width="429" height="567" frameX="-39" frameY="-18" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20125" x="3458" y="6336" width="429" height="567" frameX="-39" frameY="-18" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20126" x="2" y="6910" width="435" height="570" frameX="-40" frameY="-15" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20127" x="2" y="6910" width="435" height="570" frameX="-40" frameY="-15" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20128" x="439" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20129" x="439" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20130" x="876" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20131" x="876" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20132" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20133" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20134" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20135" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20136" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20137" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20138" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20139" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20140" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20141" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20142" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20143" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20144" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20145" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
-	<SubTexture name="TANK TALK 1 P20146" x="1313" y="6910" width="435" height="569" frameX="-40" frameY="-16" frameWidth="556" frameHeight="586"/>
+	
+	
 </TextureAtlas>
