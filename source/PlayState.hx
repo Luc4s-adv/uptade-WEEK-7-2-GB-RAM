@@ -494,6 +494,8 @@ class PlayState extends MusicBeatState
 				} else {
 					halloweenBG = new BGSprite('halloween_bg_low', -200, -100);
 				}
+				halloweenBG.setGraphicSize(Std.int(halloweenBG.width * 2));
+	          halloweenBG.updateHitbox();
 				add(halloweenBG);
 
 				halloweenWhite = new BGSprite(null, -FlxG.width, -FlxG.height, 0, 0);
