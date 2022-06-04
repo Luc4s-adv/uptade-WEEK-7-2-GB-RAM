@@ -60,18 +60,32 @@
 				-3,
 				-86
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "DUCK",
-			"loop": false,
+			"indices": [],
+			"name": "GF Duck Hair Blowing"
+		},
+		{
+			"offsets": [
+				-3,
+				-86
+			],
+			"indices": [
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "DUCK-loop",
+			"loop": true,
 			"name": "GF Duck Hair Blowing"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/gfCar",
 	"position": [
-		0,
-		0
+		400,
+		140
 	],
 	"healthicon": "gf",
 	"flip_x": false,
