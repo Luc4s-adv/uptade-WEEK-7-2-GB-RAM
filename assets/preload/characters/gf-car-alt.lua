@@ -26,6 +26,16 @@ makeAnimatedLuaSprite('Speaker', 'characters/Speaker-alt', getProperty('gf.x') -
 	end
 end
 
+function onUpdate()
+setProperty('Speaker.alpha', getProperty('gf.alpha'))
+    setProperty('Speaker.x', getProperty('gf.x') - 120)
+    --Week 4 custom
+    setProperty('gf.x', getProperty('bgLimo.x') + 700)
+    setProperty('Speaker.x', getProperty('bgLimo.x') + 580)
+    ---
+    setProperty('Speaker.y', getProperty('gf.y') + 70)
+end
+
 function onBeatHit()
     objectPlayAnimation('Speaker', 'bop', true)
 end
@@ -34,58 +44,23 @@ function onCountdownTick(c)
 	onBeatHit()
 end
 
+--Gambiarras para Week 4-Customize se quiser
 function onEvent(n, v1, v2)
 	if n == 'Kill Henchmen' then
 		characterPlayAnim('gf', 'DUCK', true);
 		setProperty('gf.specialAnim', true);
-		runTimer('Gf 1', 0.5);
-		runTimer('Gf ducking loop', 0);
+		runTimer('Gf-Loop', 0.1);
 	end
 end
 
 function onTimerCompleted(tag, loops, loopsLeft)
-if tag == 'Gf back!' then -- Timer completed, play dialogue
-		doTweenX('ee','gfGroup',400,0.5,'sineOut')
-		doTweenX('eo','Speaker',680,0.5,'sineOut')
+if tag == 'Gf-Loop' then
+		characterPlayAnim('gf', 'DUCK-loop', true);
+		setProperty('gf.specialAnim', true);
+		runTimer('Gf-Loop-End', 3);
+		end
+if tag == 'Gf-Loop-End' then
+		characterPlayAnim('gf', 'DUCK-loop', true);
 		setProperty('gf.specialAnim', false);
-		end
-if tag == 'Gf ducking loop' then -- Timer completed, play dialogue
-		characterPlayAnim('gf', 'DUCK-loop', true);
-		setProperty('gf.specialAnim', true);
-		end
-if tag == 'Gf 2' then -- Timer completed, play dialogue
-		doTweenX('ee','gfGroup', 2000 ,0.5,'sineOut')
-		doTweenX('eo','Speaker', 2900 ,2.5,'sineOut')
-		runTimer('Gf 3', 0.7);
-		characterPlayAnim('gf', 'DUCK-loop', true);
-		setProperty('gf.specialAnim', true);
-		end
-if tag == 'Gf exit!' then -- Timer completed, play dialogue
-		doTweenX('ee','gfGroup', 2000 ,2,'sineOut')
-		doTweenX('eo','Speaker', 3000 ,2.7,'sineOut')
-		runTimer('Gf 2', 0.4);
-		characterPlayAnim('gf', 'DUCK-loop', true);
-		setProperty('gf.specialAnim', true);
-		end
-if tag == 'Gf 1' then -- Timer completed, play dialogue
-		doTweenX('ee','gfGroup', 350 ,0.9,'sineOut')
-		doTweenX('eo','Speaker', 640 ,0.9,'sineOut')
-		runTimer('Gf exit!', 0.4);
-		characterPlayAnim('gf', 'DUCK-loop', true);
-		setProperty('gf.specialAnim', true);
-		end
-if tag == 'Gf 3' then -- Timer completed, play dialogue
-		doTweenX('ee','gfGroup', 397, 0.9,'sineOut')
-		doTweenX('eo','Speaker', 654 ,1,'sineOut')
-		runTimer('Gf back!', 1);
-		runTimer('Gf other', 0.9);
-		characterPlayAnim('gf', 'DUCK-loop', true);
-		setProperty('gf.specialAnim', true);
-		end
-if tag == 'Gf other' then -- Timer completed, play dialogue
-		doTweenX('eo','Speaker', 680 ,0.8,'sineOut')
-		doTweenX('ee','gfGroup', 396, 1,'sineOut')
-		characterPlayAnim('gf', 'DUCK-loop', true);
-		setProperty('gf.specialAnim', true);
 		end
 end
