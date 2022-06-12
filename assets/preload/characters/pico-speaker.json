@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				-1,
+				4,
 				-128
 			],
 			"loop": false,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				412,
-				-64
+				417,
+				-129
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				439,
+				521,
 				-19
 			],
 			"loop": false,
@@ -45,63 +45,63 @@
 			"name": "Pico shoot 4"
 		},
 		{
-			"offsets": [
-				412,
-				-64
-			],
 			"loop": true,
-			"fps": 24,
-			"anim": "shoot3-loop",
-			"indices": [
-				50,
-				51,
-				52
-			],
-			"name": "Pico shoot 3"
-		},
-		{
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "shoot1-loop",
+			"fps": 24,
+			"name": "Pico shoot 1",
 			"indices": [
-				23,
-				24,
-				25
-			],
-			"name": "Pico shoot 1"
+				4,
+				5,
+				6
+			]
 		},
 		{
 			"offsets": [
-				1,
+				4,
 				-128
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "shoot2-loop",
 			"indices": [
-				57,
-				58,
-				59
+				4,
+				5,
+				6
 			],
 			"name": "Pico shoot 2"
 		},
 		{
+			"loop": true,
 			"offsets": [
-				439,
+				417,
+				-129
+			],
+			"anim": "shoot3-loop",
+			"fps": 24,
+			"name": "Pico shoot 3",
+			"indices": [
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"offsets": [
+				521,
 				-19
 			],
-			"loop": true,
+			"indices": [
+				4,
+				5,
+				6
+			],
 			"fps": 24,
 			"anim": "shoot4-loop",
-			"indices": [
-				50,
-				51,
-				52
-			],
+			"loop": true,
 			"name": "Pico shoot 4"
 		}
 	],
